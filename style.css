@@ -1,0 +1,21 @@
+.main{
+  display: flex;
+  background-color:#A8ABCE;
+  justify-content: space-around;
+  border-bottom: 6px solid #41A8E9
+  
+}
+.img1 {
+  height: 160px;
+  width: 130px;
+  border-radius: 20px;
+  padding: 10px;
+  margin-top: 10px;
+}
+.text1{
+  font-size: 14px;
+  margin-left: 15px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  height: 140px;
+}
